@@ -1,5 +1,6 @@
 # Service Virtualization
 Why - [here](https://seleniumframework.wordpress.com/2015/12/31/open-source-service-virtualization/) and [here](https://www.thoughtworks.com/radar/tools/mountebank)
+.  
 [Stubs](http://www.mbtest.org/docs/api/stubs) are test doubles (aka. mock services), 
 imposter is an abstract for virtualized service, stubs include predicates and responses.
 [predicates](http://www.mbtest.org/docs/api/predicates) specify

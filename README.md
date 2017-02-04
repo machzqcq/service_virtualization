@@ -11,7 +11,7 @@ how an incoming request should match the stub (in the absence of predicate, stub
 - [Examples and References](http://www.mbtest.org/docs/examples)  
 - Supported Protocols - http, https, tcp and smtp
 - [Mocks](http://www.mbtest.org/docs/api/mocks) - remember information about each request to each imposter
-- [Contact and Resource Model](http://www.mbtest.org/docs/api/contracts)
+- [Contract and Resource Model](http://www.mbtest.org/docs/api/contracts)
 
 
 # How
